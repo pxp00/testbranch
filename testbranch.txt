@@ -1,4 +1,8 @@
 hello this is the one line
 hello this is the second line
 third line
+<<<<<<< HEAD
 hello my name is pxp00
+=======
+hello my name is hugo
+>>>>>>> new
