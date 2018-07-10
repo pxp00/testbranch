@@ -1,3 +1,0 @@
-init test
-b1 add
-b1 mod
